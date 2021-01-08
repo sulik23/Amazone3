@@ -9,18 +9,27 @@ const data = {
       isAdmin: true,
       isSeller: true,
       seller: {
-        name: 'Seller',
-        logo: '/images/logo1.png',
+        name: 'Seller1',
+        logo: '/images/logo.png',
         description: 'best seller',
         rating: 4.5,
         numReviews: 120,
       },
     },
     {
-      name: 'User',
-      email: 'user@example.com',
+      name: 'Seller2',
+      email: 'seller@example.com',
       password: bcrypt.hashSync('1234', 8),
       isAdmin: false,
+      isSeller: true,
+      seller: {
+        name: 'Seller2',
+        logo: '/images/logo2.png',
+        description: 'top seller',
+        rating: 5,
+        numReviews: 20,
+      },
+
     },
   ],
   products: [
