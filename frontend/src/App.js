@@ -72,7 +72,7 @@ function App() {
               )}
             ></Route>
           </div>
-          <div>
+          <div className="dropdown">
             <Link to="/cart">
               Cart
               {cartItems.length > 0 && (
