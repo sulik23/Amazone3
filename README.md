@@ -1,5 +1,5 @@
 use email for functionality check: admin@example.com password:1234
-- Amazon like e-commerce web app
+- e-commerce web app similar to Amazon
 - Register Login
 - Create products as a seller
 - Buy products(checkout wizard)
