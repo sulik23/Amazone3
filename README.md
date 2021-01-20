@@ -1,7 +1,7 @@
 use email for functionality check: admin@example.com password:1234
-- e-commerce web app similar to Amazon
+- E-commerce web app similar to Amazon
 - Register Login
-- Create products as a seller
+- Create products as a seller and upload images
 - Buy products(checkout wizard)
 - Paypal/Stripe pay
 - MongoDB(Mongoose) database 
@@ -12,5 +12,5 @@ use email for functionality check: admin@example.com password:1234
 - Redux: Store, Reducers, Actions
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
-- Development: ESLint, Babel, Git, Github,
+- Development: ESLint, Babel, Github
 - Deployment: Heroku
