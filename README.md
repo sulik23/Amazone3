@@ -4,7 +4,7 @@ use email for functionality check as a admin: admin@example.com password:1234
 - Create products as a seller and upload images
 - Buy products(checkout wizard)
 - Paypal/Stripe pay
-- MongoDB(Mongoose) database 
+- MongoDB/Mongoose database 
 - Leave comments and rate products 
 - Filter products by categories etc.
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
