@@ -2,7 +2,7 @@ use email for functionality check as a admin: admin@example.com password:1234
 - E-commerce web app similar to Amazon
 - Register Login
 - Create products as a seller and upload images
-- Buy products(checkout wizard)
+- Buy products-checkout wizard
 - Paypal/Stripe pay
 - MongoDB/Mongoose database 
 - Leave comments and rate products 
