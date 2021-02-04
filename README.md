@@ -14,4 +14,4 @@ password:1234
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Github
-- Deployment: Heroku
+- Deployment: Heroku APP
