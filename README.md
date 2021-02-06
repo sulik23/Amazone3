@@ -4,7 +4,7 @@ password:1234
 - Register Login
 - Create products as a seller and upload images
 - Buy products-checkout wizard
-- Paypal/Stripe pay
+- Paypal and Stripe pay
 - MongoDB/Mongoose database 
 - Leave comments and rate products 
 - Filter products by categories etc.
