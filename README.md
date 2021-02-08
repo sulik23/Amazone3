@@ -1,5 +1,4 @@
-use e-mail for functionality check as an admin: admin@example.com 
-password:1234
+use e-mail for functionality check as an admin: admin@example.com password:1234
 - E-commerce web app similar to Amazon
 - Register Login
 - Create products as a seller and upload images
