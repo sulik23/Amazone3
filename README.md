@@ -14,3 +14,4 @@ use e-mail for functionality check as an admin: admin@example.com password:1234
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Github
 - Deployment: Heroku APP
+
